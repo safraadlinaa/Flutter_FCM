@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769827640316",
+    "project_id": "fcm-besquare-126",
+    "storage_bucket": "fcm-besquare-126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769827640316:android:ab35267c2687e532eb5879",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769827640316-rh0tvg06j7crga18tkdghg4aaevhhjg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFyIRALLJm2h93uXsLO3R9qlmeLjykShY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769827640316-rh0tvg06j7crga18tkdghg4aaevhhjg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
